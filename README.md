@@ -15,3 +15,6 @@ ps : the hand tracking module was developped by `Murtaza Hassan`
   
   this can be changed by changing this variable  
   ``right_click_fingers = [1,0,0,0,0]``
+
+### emergency escape : 
+  pres the ESC key in your keyboard 
