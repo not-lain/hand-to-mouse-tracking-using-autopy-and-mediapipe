@@ -1,4 +1,4 @@
-# hand-tracking-project-using-autopy-and-mediapipe
+# hand-to-mouse-tracking-using-autopy-and-mediapipe
 
 to the program simply open your terminal and run the mouse.py file 
 ```bash python mouse.py ``` 
