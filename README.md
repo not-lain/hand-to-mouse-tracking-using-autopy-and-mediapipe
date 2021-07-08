@@ -3,8 +3,6 @@
 to the program simply open your terminal and run the mouse.py file 
 ```bash python mouse.py ``` 
 
-ps : the hand tracking module was developped by `Murtaza Hassan` 
-
 
 ![mediapipe map](https://user-images.githubusercontent.com/70411813/124967141-fc814080-e01b-11eb-8cc3-18da30cff65e.png)
 
